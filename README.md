@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo(a)! 👋👋👋👋
 
-<h4>Meu nome é Ricardo Moreira, sou desenvolvedor de software, estou na área de TI desde 2005</h4> 
+<h4>Meu nome é Ricardo Moreira, sou desenvolvedor de software, estou na área de TI desde 2005.</h4> 
 
 <!--
 **rgusto/rgusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
