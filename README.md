@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo(a)! 👋👋👋👋
 
-<h4>Meu nome é Ricardo Moreira, sou desenvolvedor de software, estou na área de TI desde 2005.</h4> 
+<h4>Meu nome é Ricardo Moreira, sou desenvolvedor de software, estou na área de TI desde 2005. Trabalhei inicialmente com tecnologias voltadas para sistemas desktop, evoluindo depois para sistemas web utilizando tecnologias back-end e, por último, com tecnologias front-end, adotando o perfil fullstack.</h4> 
 
 <div align="center">
   <a href="https://github.com/rgusto">
