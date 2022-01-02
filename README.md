@@ -3,6 +3,7 @@
 <h4>Meu nome é Ricardo Moreira, sou desenvolvedor de software, estou na área de TI desde 2005.</h4> 
 
 [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgusto&show_icons=true&theme=dracula)](https://github.com/rgusto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgusto)](https://github.com/rgusto/github-readme-stats)
 
 <!--
 **rgusto/rgusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
