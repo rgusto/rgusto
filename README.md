@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo(a)! 👋👋👋👋
+### Olá, seja bem-vindo(a)!
 
 <h4>Meu nome é Ricardo Moreira, sou desenvolvedor de software, estou na área de TI desde 2005.</h4> 
 
