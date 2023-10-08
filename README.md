@@ -13,12 +13,12 @@
 </div>
   
 <div align="center"><br>
-  <img align="center" alt="Ricardo-Java" height="48" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="center" alt="Ricardo-PHP" height="48" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Ricardo-Kotlin" height="48" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" >
-  <img align="center" alt="Ricardo-JS" height="48" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">   
-   <img align="center" alt="Ricardo-NodeJS" height="48" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Ricardo-TS" height="48" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Ricardo-Angular" height="48" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Ricardo-React" height="48" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" >
+  <img align="center" alt="Ricardo-Java" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+  <img align="center" alt="Ricardo-PHP" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Ricardo-Kotlin" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" >
+  <img align="center" alt="Ricardo-JS" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">   
+   <img align="center" alt="Ricardo-NodeJS" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Ricardo-TS" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Ricardo-Angular" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Ricardo-React" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" >
 </div>
