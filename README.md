@@ -3,7 +3,7 @@
 <h4>Meu nome é Ricardo Moreira, sou desenvolvedor de software.</h4> 
 
 <div align="justifiy">
-  Iniciei na área de TI em 2005 como estagiário, trabalhei inicialmente com tecnologias voltadas para sistemas desktop, evoluindo depois para sistemas web utilizando tecnologias back-end e, por último, para tecnologias front-end, adotando o perfil fullstack.
+  Atuando na área de TI desde 2005, possuo uma vasta experiência em desenvolvimento de software e análise de sistemas.
 </div><br>
 
 <div align="center">
